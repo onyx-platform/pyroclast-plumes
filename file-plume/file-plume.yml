@@ -1,0 +1,4 @@
+plume.prospectors:
+- input_type: log
+  paths:
+    - /var/log/*.log
